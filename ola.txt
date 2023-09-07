@@ -1,1 +1,3 @@
-injininnpn
+void main(){
+body;
+}
